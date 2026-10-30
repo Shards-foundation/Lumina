@@ -13,7 +13,7 @@
     "react-dom": "^19.2.0",
     "lucide-react": "^1.7.0",
     "react-router-dom": "^7.9.6",
-    "dotenv": "^17.2.3",
+    "dotenv": "^18.0.9",
     "path": "^0.12.7",
     "@prisma/client": "^7.0.0",
     "url": "^0.11.4",
